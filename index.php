@@ -8,5 +8,10 @@
 <body>
     <h1>Hellow World</h1>
     <h2>Hello World 2</h2>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
